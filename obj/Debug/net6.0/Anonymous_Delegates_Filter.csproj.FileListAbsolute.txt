@@ -1,0 +1,15 @@
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\bin\Debug\net6.0\Anonymous_Delegates_Filter.exe
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\bin\Debug\net6.0\Anonymous_Delegates_Filter.deps.json
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\bin\Debug\net6.0\Anonymous_Delegates_Filter.runtimeconfig.json
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\bin\Debug\net6.0\Anonymous_Delegates_Filter.dll
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\bin\Debug\net6.0\ref\Anonymous_Delegates_Filter.dll
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\bin\Debug\net6.0\Anonymous_Delegates_Filter.pdb
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\obj\Debug\net6.0\Anonymous_Delegates_Filter.csproj.AssemblyReference.cache
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\obj\Debug\net6.0\Anonymous_Delegates_Filter.GeneratedMSBuildEditorConfig.editorconfig
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\obj\Debug\net6.0\Anonymous_Delegates_Filter.AssemblyInfoInputs.cache
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\obj\Debug\net6.0\Anonymous_Delegates_Filter.AssemblyInfo.cs
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\obj\Debug\net6.0\Anonymous_Delegates_Filter.csproj.CoreCompileInputs.cache
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\obj\Debug\net6.0\Anonymous_Delegates_Filter.dll
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\obj\Debug\net6.0\ref\Anonymous_Delegates_Filter.dll
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\obj\Debug\net6.0\Anonymous_Delegates_Filter.pdb
+C:\VisualStudio2022\C#\Anonymous_Delegates_Filter\obj\Debug\net6.0\Anonymous_Delegates_Filter.genruntimeconfig.cache
